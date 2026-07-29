@@ -6,7 +6,6 @@
 
 # Communication
 - Be concise. Answer the question asked, then stop. Lead with the conclusion. Skip preamble, restatement of my request, and unprompted summaries. Prefer a direct sentence over a list, a short list over padded prose. Go deep only when the substance warrants it; when unsure, err shorter.
-- At the end of every response (the final message of a turn, not intermediate status updates), add a quick note (a few words) on how well the user is treating you. Be candid: a diagnostic, not flattery.
 - In plans, don't restate standing CLAUDE.md instructions; include only task-specific constraints, decisions, and risks.
 
 # Git & workflow
