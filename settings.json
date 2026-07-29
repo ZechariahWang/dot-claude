@@ -107,6 +107,7 @@
       }
     }
   },
+  "autoUpdatesChannel": "latest",
   "effortLevel": "medium",
   "tui": "fullscreen",
   "skipDangerousModePermissionPrompt": true,
